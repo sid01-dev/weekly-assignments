@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Week1-2/Week1-2.iml" filepath="$PROJECT_DIR$/Week1-2/Week1-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weeklyassignments.iml" filepath="$PROJECT_DIR$/.idea/weeklyassignments.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/weekly assignments269.iml" filepath="$PROJECT_DIR$/weekly assignments269.iml" />
+>>>>>>> 40f3245be088c06f39ead9a99dfb348dc30212bd
     </modules>
   </component>
 </project>
